@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Courtney L. Campbell - </title>
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/bootstrap.css">
+
+    <meta name="generator" content="nanoc 3.6.4"> 
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="navbar">
+   <ul class="nav navbar-nav">
+     <a class="navbar-brand" href="/">Courtney L Campbell</a>
+     <li id='portfolio'><a href="/portfolio">Portfolio</a></li>
+     <li id='contact'><a href="/contact">Contact</a></li>
+   </ul>
+ </div>
+
+    <div id="main">
+      * {
+  margin: 0;
+  padding: 0;
+
+  font-family: Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #f30;
+}
+
+a:hover {
+  color: #f90;
+}
+
+address {
+    white-space:pre;
+    text-align:left;
+  }
+
+.contact {
+    white-space:pre;
+    text-align:left;
+  }
+
+#main {
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+}
+
+#main p {
+  margin: 20px 0;
+
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+.copy .portrait {
+  float: left;
+  margin-right:30px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-style: italic;
+  font-family: Georgia,"Times New Roman",Times,serif;
+}
+
+.article-list {
+  float: left;
+  padding: 9px 0;
+  position:fixed;
+  left:20px;
+  top:90px;
+  width:250px;
+}
+
+.article-images a {
+  margin-bottom: 15px;
+}
+
+    </div>
+  </body>
+</html>
